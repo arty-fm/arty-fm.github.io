@@ -1,0 +1,13 @@
+title: arty.fm
+email: arty-fm@egga.de
+description: >-
+  Prototype for minimum effort educational work
+baseurl: ""
+url: "https://arty-fm.github.io/"
+github_username:  egga
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
