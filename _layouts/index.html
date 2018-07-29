@@ -17,16 +17,16 @@
     <div class="row">
 
 
-        {% for member in site.data.topics %}
+        {% for topic in site.data.topics %}
 
         <div class="col rounded text-light bg-danger p-3 m-3">
             <h3>
-                <span class="badge badge-warning">{{ member.name }}</span>
+                <span class="badge badge-warning">{{ topic.name }}</span>
             </h3>
             <p>
-                {{ member.text }}
+                {{ topic.text }}
             </p>
-            <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&margin=10&bgcolor=dc3545&data={{ member.link }}" alt="" title=""/>
+            <img src="https://api.qrserver.com/v1/create-qr-code/?size=200x200&margin=10&bgcolor=dc3545&data={{ topic.link }}" alt="" title=""/>
         </div>
 
 
