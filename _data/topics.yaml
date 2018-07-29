@@ -1,3 +1,10 @@
+- name: Knigge
+  text: Was darf ich überhaupt noch sagen?
+  link: https://goo.gl/ho9YZ7
+- name: TSG
+  text: trans* Rechte in Deutschland
+  link: https://youtu.be/dY5ULOz1J40
+
 - name: misgendering
   text: trans* people is an act of violence
   link: https://youtu.be/g-u5gYxXHoA
@@ -10,10 +17,3 @@
 - name: being trans enough
   text: or feeding a stereotype
   link: https://youtu.be/tAJTKriaTUE
-
-- name: TSG
-  text: trans* Rechte in Deutschland
-  link: https://youtu.be/dY5ULOz1J40
-- name: Knigge
-  text: Was darf ich überhaupt noch sagen?
-  link: https://goo.gl/ho9YZ7
