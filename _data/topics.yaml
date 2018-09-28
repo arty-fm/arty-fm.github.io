@@ -1,3 +1,7 @@
+- name: Sprache
+  text: Geschlechter gerechte
+  link: https://de.wikipedia.org/wiki/Geschlechtergerechte_Sprache#Vergleich_und_Problematik
+  
 - name: Knigge
   text: Was darf ich überhaupt noch sagen?
   link: https://goo.gl/ho9YZ7
@@ -17,3 +21,4 @@
 - name: being trans enough
   text: or feeding a stereotype
   link: https://youtu.be/tAJTKriaTUE
+   
